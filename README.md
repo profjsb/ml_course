@@ -2,6 +2,9 @@
 
 Machine Learning Course, Columbia 2019
 
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/profjsb/ml_course/master)
+
+
 ## Format 
 
 4 days of lectures, approximately one per morning and one per afternoon. Intermittent breakout work by participants.
@@ -24,13 +27,13 @@ Machine Learning Course, Columbia 2019
    * Gaussian Processes
     	
 * (Lecture 3) Supervised Learning
-   * Regression: logistic regression, kNN, 
+   * Regression: logistic regression, kNN, error estimation 
    * Classification: Random Forest & LightGBM
 
 ### Neutral Networks
 * (Lecture 4) Neural Networks
    * Introductory algorithms and frameworks
-   * Fully connected networks for regression
+   * Fully connected networks for regression and classification
   
 * (Lecture 5) Deep Convolutional Neural Networks
    * imaging classification
@@ -38,7 +41,7 @@ Machine Learning Course, Columbia 2019
    * temporal convolution NN (TCNs)
 
 * (Lecture 6) Generative and Compressive Modelling
-   * auto-encoders for (semi- or unsupervised) learning
+   * auto-encoders for (semi- or self) learning
    * GANs
    * surrogate emulation
 

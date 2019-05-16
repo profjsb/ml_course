@@ -3,6 +3,7 @@ channels:
   - defaults
 dependencies:
   - pip
+  - lightgbm
   - matplotlib
   - scipy
   - numpy
@@ -17,5 +18,7 @@ dependencies:
   - mkl-service
   - keras
   - pymc3
+  - graphviz
+  - pydot
   - pip:
     - corner
