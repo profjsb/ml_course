@@ -11,20 +11,21 @@ Machine Learning Course, Columbia 2019
 ### Introductions & Course Goals
 
 * (Lecture 1) Computational and Inferential Thinking
-   * machine learning & statistics introduction
-   * Problem definition & Data
+   * Machine learning & statistics introduction
+   * Problem Definition & Data
    * Exploration: visualization & data preparation
    * Featurization and Pipelining
 
-### Representation Learning
+### Statistical Learning and Prediction
 
-* (Lecture 2) Supervised Learning (I)
-   * Regression: logistic regression, kNN, Gaussian Processes
+* (Lecture 2) Bayesian Inference
+   * Introduction
+   * MCMC, hierarchical Bayes
+   * Gaussian Processes
+    	
+* (Lecture 3) Supervised Learning
+   * Regression: logistic regression, kNN, 
    * Classification: Random Forest & LightGBM
-
-* (Lecture 3) Unsupervised Learning 
-   * Clustering approaches
-   * Anomaly detections with random forests
 
 ### Neutral Networks
 * (Lecture 4) Neural Networks
@@ -41,7 +42,11 @@ Machine Learning Course, Columbia 2019
    * GANs
    * surrogate emulation
 
-* (Lecture 7) Semi-supervised & Reinforcement Learning
+### (Lecture 7) 
+* (Lecture 3) Self-supervised/Unsupervised Learning 
+   * Clustering approaches
+   * Anomaly detections with random forests
+   * Semi-supervised & Reinforcement Learning
 
 ### ML In the Real World
 
