@@ -15,10 +15,10 @@ dependencies:
   - ipywidgets
   - altair
   - plotly
-  - mkl-service
   - keras
   - pymc3
   - graphviz
   - pydot
+  - mkl-service
   - pip:
     - corner
