@@ -42,8 +42,7 @@ Machine Learning Course, Columbia 2019
    * GANs
    * surrogate emulation
 
-### (Lecture 7) 
-* (Lecture 3) Self-supervised/Unsupervised Learning 
+### Self- & semi-supervised (Lecture 7)
    * Clustering approaches
    * Anomaly detections with random forests
    * Semi-supervised & Reinforcement Learning
