@@ -37,9 +37,10 @@ Machine Learning Course, Columbia 2019
   
 * (Lecture 5) Deep Convolutional Neural Networks
    * imaging classification
-   * time-series classification
-   * temporal convolution NN (TCNs)
-
+   * sequence inferencing/classification
+   	   * temporal convolution NN (TCNs)
+   * transfer learning & hyperparameter optimization
+   
 * (Lecture 6) Generative and Compressive Modelling
    * auto-encoders for (semi- or self) learning
    * GANs

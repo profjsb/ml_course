@@ -25,3 +25,4 @@ dependencies:
   - mkl-service
   - pip:
     - corner
+    - keract
