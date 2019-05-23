@@ -42,14 +42,16 @@ Machine Learning Course, Columbia 2019
    * transfer learning & hyperparameter optimization
    
 * (Lecture 6) Generative and Compressive Modelling
-   * auto-encoders for (semi- or self) learning
+   * auto-encoders
    * GANs
    * surrogate emulation
+   * Semi-supervised
 
-### Self- & semi-supervised (Lecture 7)
+### Self-supervised Learning & Novelty Detection (Lecture 7)
    * Clustering approaches
-   * Anomaly detections with random forests
-   * Semi-supervised & Reinforcement Learning
+   * Dimensionality reduction
+   * Anomaly/Novelty detections with random forests
+   * Outlier detection for Timeseries
 
 ### ML In the Real World
 
@@ -58,7 +60,7 @@ Machine Learning Course, Columbia 2019
 * Business considerations
 * Deployability, Scaling, and Maintainability
 * Bias, Reproducibility, GDPR, and Ethics in ML
-
+* What we didn't cover: Reinforcement Learning, etc.
 
 ## Frameworks:
   * Python 3.6 (or 3.7)

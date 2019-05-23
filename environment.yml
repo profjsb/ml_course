@@ -16,6 +16,7 @@ dependencies:
   - pillow
   - ipywidgets
   - altair
+  - bokeh
   - plotly
   - keras
   - pymc3
@@ -26,3 +27,5 @@ dependencies:
   - pip:
     - corner
     - keract
+    - tf-nightly-2.0-preview
+    - umap-learn
