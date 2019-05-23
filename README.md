@@ -1,6 +1,6 @@
 # Machine Learning Course
 
-Machine Learning Course, Columbia 2019
+Machine Learning Course, Bogotá, Colombia  (&copy; Josh Bloom; June 2019)
 
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/profjsb/ml_course/master)
 
