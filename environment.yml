@@ -2,6 +2,7 @@ channels:
   - conda-forge
   - anaconda
   - defaults
+  - bioconda
 dependencies:
   - pip
   - lightgbm
@@ -24,8 +25,11 @@ dependencies:
   - python-graphviz
   - pydot
   - mkl-service
+  - pycluster
+  - statsmodels
   - pip:
     - corner
     - keract
     - tf-nightly-2.0-preview
     - umap-learn
+    - URF
