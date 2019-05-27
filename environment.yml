@@ -27,6 +27,8 @@ dependencies:
   - mkl-service
   - pycluster
   - statsmodels
+  - jupyter_contrib_nbextensions
+  - rise
   - pip:
     - corner
     - keract
