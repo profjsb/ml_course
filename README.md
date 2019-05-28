@@ -14,7 +14,8 @@ Machine Learning Course, Bogotá, Colombia  (&copy; Josh Bloom; June 2019)
 ### Introductions & Course Goals
 
 * (Lecture 1) Computational and Inferential Thinking
-   * Machine learning & statistics introduction
+   * Logistics
+   * Data Science, Machine learning, and statistics introduction
    * Problem Definition & Data
    * Exploration: visualization & data preparation
    * Featurization and Pipelining
