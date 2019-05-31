@@ -16,9 +16,8 @@ Machine Learning Course, Bogotá, Colombia  (&copy; Josh Bloom; June 2019)
 * (Lecture 1) Computational and Inferential Thinking
    * Logistics
    * Data Science, Machine learning, and statistics introduction
-   * Problem Definition & Data
    * Exploration: visualization & data preparation
-   * Featurization and Pipelining
+   * Featurization,  Dirty Data, and Natural Language Processing
 
 ### Statistical Learning and Prediction
 
