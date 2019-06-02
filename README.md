@@ -38,10 +38,9 @@ Machine Learning Course, Bogotá, Colombia  (&copy; Josh Bloom; June 2019)
 * (Lecture 5) Deep Convolutional Neural Networks
    * imaging classification
    * sequence inferencing/classification
-   	   * temporal convolution NN (TCNs)
    * transfer learning & hyperparameter optimization
    
-* (Lecture 6) Generative and Compressive Modelling
+* (Lecture 6) Generative and Compressive Modeling
    * auto-encoders
    * GANs
    * surrogate emulation
