@@ -61,9 +61,11 @@ Machine Learning Course, Bogotá, Colombia  (&copy; Josh Bloom; June 2019)
 * Bias, Reproducibility, GDPR, and Ethics in ML
 * What we didn't cover: Reinforcement Learning, etc.
 
-## Frameworks:
+## Major Frameworks:
   * Python 3.6 (or 3.7)
   * numpy, scipy, seaborn
   * sklearn
   * keras/tensorflow
+  * spacy
+  * pymc3
  

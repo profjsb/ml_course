@@ -30,6 +30,7 @@ dependencies:
   - statsmodels
   - jupyter_contrib_nbextensions
   - rise
+  - spacy
   - pip:
     - corner
     - keract
