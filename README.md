@@ -2,6 +2,10 @@
 
 Machine Learning Course, Bogotá, Colombia  (&copy; Josh Bloom; June 2019)
 
+Stable Binder:
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/profjsb/ml_course/c209b1b23062f680520b29060f605a52b0d5f087)
+
+Bleeding edge (might take a long time to build an image):
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/profjsb/ml_course/master)
 
 
