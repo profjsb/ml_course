@@ -45,15 +45,14 @@ If those don't work you can follow along using the static notebooks (ie., no ker
 * (Lecture 5) Deep Convolutional Neural Networks
    * imaging classification
    * sequence inferencing/classification
-   * transfer learning & hyperparameter optimization
    
 * (Lecture 6) Generative and Compressive Modeling
    * auto-encoders
    * GANs
    * surrogate emulation
-   * Semi-supervised
 
 ### Self-supervised Learning & Novelty Detection (Lecture 7)
+   * transfer learning & hyperparameter optimization
    * Clustering approaches
    * Dimensionality reduction
    * Anomaly/Novelty detections with random forests
