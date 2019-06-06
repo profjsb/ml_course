@@ -1,11 +1,11 @@
-# Machine Learning Course
+# Learning Machine Learning Course
 
-Machine Learning Course, Bogotá, Colombia  (&copy; Josh Bloom; June 2019)
+Learning Machine Learning Course, Bogotá, Colombia  (&copy; Josh Bloom; June 2019)
 
 ## Following along
 
 To *execute* the notebooks with all the dependencies installed, we'll use MyBinder. Here's the stable Binder link:
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/profjsb/ml_course/c209b1b23062f680520b29060f605a52b0d5f087)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/profjsb/ml_course/eafd5f4ec2529bcaee13132f15e950884dc48d0e)
 
 Bleeding edge (might take a long time to build an image):
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/profjsb/ml_course/master)
