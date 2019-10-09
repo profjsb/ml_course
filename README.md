@@ -37,7 +37,7 @@ If those don't work you can follow along using the static notebooks (ie., no ker
    * Regression: logistic regression, kNN, error estimation 
    * Classification: Random Forest & LightGBM
 
-### Neutral Networks
+### Neural Networks
 * (Lecture 4) Neural Networks
    * Introductory algorithms and frameworks
    * Fully connected networks for regression and classification
